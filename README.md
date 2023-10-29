@@ -44,5 +44,5 @@ Algumas capturas de tela de como o projeto como referência:
 
 Este projeto foi desenvolvido como parte do Trabalho de Conclusão de Curso de Informática por Laura, Jessyca e Samuel. Para dúvidas ou comentários entrar em contato conosco:
 - [Laura Camilly](https://www.linkedin.com/in/laura-camilly-strada-dos-santos/)
-- [Jessyca Rayane](https://www.linkedin.com/in//)
+- [Jessyca Rayane](https://www.linkedin.com/in/jessyca-rayane-592618290/)
 - [Samuel Ferraz](https://www.linkedin.com/in/samuel-ferraz-2a4b30290/)
